@@ -9,9 +9,13 @@ Software Engineering Day1 Assignment
 -Software engineering is a branch of computer science used for designing, developing, testing, evaluation and maintainance of software applications. It's importance in the technology industry includes:
 
 a) Reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance.
+
 b) Efficiency - it helps to optimize developer workflow while maintaining high quality standards.
+
 c) Scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
+
 d) Security - implement protection practice like authentication, authorization and encryption to secure users information
+
 e) Collaboration - promote clear communication and teamwork, resulting in the successful development of complex systems
 
 **Identify and describe at least three key milestones in the evolution of software engineering.**
@@ -61,13 +65,13 @@ Software Developer:
 - Design the software architecture, database schema, and interaction between system components.
 - Maintaining and updating software to keep it functional.
 - Debugging and resolving issues that arise during development or reported after deployment.
-- Ccollaborating with other team members to ensure best practice when developing software.
+- Collaborating with other team members to ensure best practice when developing software.
 - Participate in code reviews to ensure the quality of the code and help identify potential issues.
 - reporting to the project manager about the progress of the software development.
 
 Quality Assurance Engineer:
 - Collaborate with stakeholders to understand and clarify software requirement.
-- Ccreate development standards and procedures for the programmers to follow
+- Create development standards and procedures for the programmers to follow
 - Confirm that the software meets the requirement before deployment.
 - Analyse the product to identify bugs and suggest changes to make them more efficient.
 - Develop and execute automation scripts using open source tools.
@@ -105,7 +109,7 @@ Importance:
 
 **What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.**
 
-a) rapid technological advancement places considerable pressure on software engineers to stay current.
+a) Rapid technological advancement places considerable pressure on software engineers to stay current.
 - Solution: Adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
 
 b) Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
@@ -132,9 +136,9 @@ f) Software Accessibility and Usability - Overly complex software can frustrate 
   - Help to ensure data flows smoothly between modules and interfaces work as expected.
 
 3) System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
-   -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security.
+   -It helps to verify that the system meets all functional and non-functional requirements, including performance, usability, and security.
 
-4) Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors.
+5) Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors.
   - Helps to know whether the software meets the needs of the end-user and is ready for deployment.
 
 
@@ -156,6 +160,7 @@ Importance:
 
 Example of vague prompt:
 - Draw a picture of a person
+
 Improved prompt:
 - Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
 
